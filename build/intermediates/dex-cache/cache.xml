@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/bin/Downloads/curtain/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/bin/Downloads/curtain/app/build/intermediates/pre-dexed/debug/classes-0704d5486e44c09f7d690ad25230e33730cec323.jar" />
+    </item>
+    <item
+        jar="/Users/bin/Downloads/curtain/app/build/intermediates/exploded-aar/shtextextend/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f4760e8cd977b37f05a8356d43539f70bd88171e">
+        <dex dex="/Users/bin/Downloads/curtain/app/build/intermediates/pre-dexed/debug/classes-ed430ff4dac57e6b6ac2629efa2801f157fec4bd.jar" />
+    </item>
+    <item
+        jar="/Users/bin/Downloads/curtain/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/bin/Downloads/curtain/app/build/intermediates/pre-dexed/debug/classes-6bddcb8c3c5df7bd69c34e3d3fa417a9c6cad519.jar" />
+    </item>
+    <item
+        jar="/Users/bin/Downloads/curtain/app/build/intermediates/exploded-aar/curtain/shcurtainslidingmenu/unspecified/libs/library_nineoldandroids.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0eae3c3e7f63f0147d0d59712fa5f8064f958ac0">
+        <dex dex="/Users/bin/Downloads/curtain/app/build/intermediates/pre-dexed/debug/library_nineoldandroids-02ffde6dd04c5d7e9ffc8ab34d774217fdb6d7c4.jar" />
+    </item>
+    <item
+        jar="/Users/bin/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/bin/Downloads/curtain/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-d8718d1e566b966e6df1279bbd3d2898fe2ab6ad.jar" />
+    </item>
+    <item
+        jar="/Users/bin/Downloads/curtain/app/build/intermediates/exploded-aar/curtain/shcurtainslidingmenu/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="603499a91e3056a5ba4116088dd841e57f337b02">
+        <dex dex="/Users/bin/Downloads/curtain/app/build/intermediates/pre-dexed/debug/classes-a4403e20ad246b25e7d33187c2f55652c906d1ca.jar" />
+    </item>
+    <item
+        jar="/Users/bin/Downloads/curtain/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/bin/Downloads/curtain/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-ad57b1009caa86bb2f53ace84a3039e9bdeeab94.jar" />
+    </item>
+
+</items>
